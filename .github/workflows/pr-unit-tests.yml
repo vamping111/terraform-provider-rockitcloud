@@ -9,6 +9,7 @@ on:
       - labeled
       - opened
       - synchronize
+      
 
 jobs:
   unit-test:
