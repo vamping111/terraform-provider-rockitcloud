@@ -1,5 +1,11 @@
 ## 25.4.0 (Unreleased)
 
+ENHANCEMENTS:
+
+* resource/aws_eks_cluster, data-source/aws_eks_cluster: add userdata for EKS clusters ([#112](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/112))
+
+## 25.4.0 (Unreleased)
+
 FEATURES:
 
 * **New Resource:** `aws_ec2_transit_gateway_shared_owners` ([#105](https://github.com/C2Devel/terraform-provider-rockitcloud/pull/105))
