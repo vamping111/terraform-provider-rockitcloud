@@ -1,0 +1,6 @@
+```release-note:enhancement
+resource/aws_eks_cluster, data-source/aws_eks_cluster: add new parameter use_dedicated_host to the master_config block.
+```
+```release-note:enhancement
+resource/aws_node_group, data-source/aws_node_group: add new parameter use_dedicated_host.
+```
