@@ -1,0 +1,3 @@
+```release-note:enhancement
+resource/aws_eks_cluster, data-source/aws_eks_cluster: add new docker_registry_config, ebs_provider_config, ingress_config, nlb_provider_config blocks to the legacy_cluster_params block.
+```
