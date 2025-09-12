@@ -8,6 +8,12 @@ FEATURES:
 
 FEATURES:
 
+* **New Resource:** `aws_ec2_transit_gateway_shared_owners` ([#105](https://github.com/C2Devel/terraform-provider-rockitcloud/pull/105))
+
+## 25.3.0
+
+FEATURES:
+
 * **New Resource:** `aws_lb_listener_certificate`
 * **New Resource:** `aws_lb_listener_rule`
 
