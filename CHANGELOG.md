@@ -1,5 +1,9 @@
 ## 25.4.0 (Unreleased)
 
+FEATURES:
+
+* **New Resource:** `aws_ec2_transit_gateway_shared_owners` ([#105](https://github.com/C2Devel/terraform-provider-rockitcloud/pull/105))
+
 ## 25.3.0
 
 FEATURES:
