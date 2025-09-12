@@ -1,3 +1,5 @@
+## 25.7.0 (Unreleased)
+
 ## 25.5.0 (Unreleased)
 
 ENHANCEMENTS:
