@@ -1,5 +1,9 @@
 ## 25.7.0 (Unreleased)
 
+ENHANCEMENTS:
+
+* test1 ([#11](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/11))
+
 ## 25.5.0 (Unreleased)
 
 ENHANCEMENTS:
