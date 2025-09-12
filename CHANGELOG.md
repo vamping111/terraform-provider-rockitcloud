@@ -2,6 +2,15 @@
 
 ENHANCEMENTS:
 
+* resource/aws_eks_cluster, data-source/aws_eks_cluster: add new docker_registry_config, ebs_provider_config, ingress_config, nlb_provider_config blocks to the legacy_cluster_params block. ([#87](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/87))
+* resource/aws_eks_cluster, data-source/aws_eks_cluster: add new parameter use_dedicated_host to the master_config block. ([#96](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/96))
+* resource/aws_eks_cluster, data-source/aws_eks_cluster: add userdata for EKS clusters ([#112](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/112))
+* resource/aws_node_group, data-source/aws_node_group: add new parameter use_dedicated_host. ([#96](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/96))
+
+## 25.4.0 (Unreleased)
+
+ENHANCEMENTS:
+
 * resource/aws_eks_cluster, data-source/aws_eks_cluster: add new parameter use_dedicated_host to the master_config block. ([#96](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/96))
 * resource/aws_eks_cluster, data-source/aws_eks_cluster: add userdata for EKS clusters ([#112](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/112))
 * resource/aws_node_group, data-source/aws_node_group: add new parameter use_dedicated_host. ([#96](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/96))
