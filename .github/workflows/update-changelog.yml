@@ -110,5 +110,5 @@ jobs:
           gh pr create \
             --title "Add CHANGELOG entry for v${{ steps.version.outputs.next_version }}" \
             --body-file pr_description.md \
-            --base main \
+            --base develop \
             --head ${{ steps.version.outputs.branch_name }}
