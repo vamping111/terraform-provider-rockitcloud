@@ -1,25 +1,5 @@
 ## 25.3.0
 
-<<<<<<< HEAD
-=======
-FEATURES:
-
-* **New Resource:** `aws_ec2_transit_gateway_shared_owners` ([#112](https://github.com/C2Devel/terraform-provider-rockitcloud/pull/112))
-
-## 25.3.0
-
-ENHANCEMENTS:
-
-* resource/aws_ssm_association: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-* resource/aws_ssm_document: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-* resource/aws_ssm_maintenance_window: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-* resource/aws_ssm_maintenance_window_target: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-* resource/aws_ssm_maintenance_window_task: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-* resource/aws_ssm_patch_baseline: Add resource identity support ([#44075](https://github.com/hashicorp/terraform-provider-aws/issues/44075))
-
-## 25.3.0
-
->>>>>>> 3c3ed58655 (changelog: add test changelog)
 FEATURES:
 
 * **New Resource:** `aws_lb_listener_certificate`
