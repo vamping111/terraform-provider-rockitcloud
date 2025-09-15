@@ -1,5 +1,9 @@
 ## 25.4.0 (Unreleased)
 
+ENHANCEMENTS:
+
+* resource/aws_eks_cluster, data-source/aws_eks_cluster: add userdata for EKS clusters ([#111](https://github.com/C2Devel/terraform-provider-rockitcloud/issues/111))
+
 ## 25.3.1 (Segodnya)
 
 ## 25.3.0
