@@ -1,3 +1,12 @@
+[![CHANGELOG Misspell](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/changelog_misspell.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/changelog_misspell.yml)
+[![Fixup checks](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-fixup-check.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-fixup-check.yml)
+[![Publishing of the internal documentation](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/publish-internal-docs.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/publish-internal-docs.yml)
+[![Release of the provider to private registry](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/private-release.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/private-release.yml)
+[![Building the provider for the public registry](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/public-release.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/public-release.yml)
+[![Run linters for the code](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-code-lint.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-code-lint.yml)
+[![Run linters for the developer documentation](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-dev-docs-lint.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-dev-docs-lint.yml)
+[![Run linters for the provider documentation](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-docs-lint.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-docs-lint.yml)
+[![Run unit tests for the code](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-unit-tests.yml/badge.svg)](https://github.com/C2Devel/terraform-provider-rockitcloud/actions/workflows/pr-unit-tests.yml)
 <a href="https://terraform.io">
     <img src=".github/terraform_logo.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
 </a>
