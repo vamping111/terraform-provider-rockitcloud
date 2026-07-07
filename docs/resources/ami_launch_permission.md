@@ -1,33 +1,7 @@
 ---
 subcategory: "EC2 (Elastic Compute Cloud)"
 layout: "aws"
-page_title: "aws_ami_launch_permission"
-description: |-
-  Adds a launch permission to an Amazon Machine Image (AMI).
----
-
-# Resource: aws_ami_launch_permission
-
-Adds a launch permission to an Amazon Machine Image (AMI).
-
-## Example Usage
-
-### AWS Account ID
-
-```terraform
-resource "aws_ami_launch_permission" "example" {
-  image_id   = "cmi-12345678"
-  account_id = "123456789012"
-}
-```
-
-### Public Access
-
-```terraform
-# The cloud currently restricts adding public access permissions to images.
-# Applying the resource must throw an error.
-resource "aws_ami_launch_permission" "example" {
-  image_id = "cmi-12345678"
+pagee_id = "cmi-12345678"
   group    = "all"
 }
 ```

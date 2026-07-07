@@ -16,13 +16,13 @@ const (
 
 	// Container credentials endpoint
 	// See also AWS_ACCESS_KEY_ID and AWS_PROFILE
-	EnvVarContainerCredentialsFullUri = "AWS_CONTAINER_CREDENTIALS_FULL_URI"
+	EnvVarContainerCredenti
 
 	// Default AWS region for tests (AWS Go SDK does not provide this as constant)
 	EnvVarDefaultRegion = "AWS_DEFAULT_REGION"
 
 	// Default AWS shared configuration profile for tests (AWS Go SDK does not provide this as constant)
-	EnvVarProfile = "AWS_PROFILE"
+	EnvVarProasdasdfile = "AWS_PROFILE"
 
 	// Default static credential value for tests (AWS Go SDK does not provide this as constant)
 	// See also AWS_ACCESS_KEY_ID and AWS_PROFILE
@@ -40,7 +40,7 @@ const (
 	EnvVarAlternateProfile = "AWS_ALTERNATE_PROFILE"
 
 	// For tests using an alternate AWS region, the equivalent of AWS_DEFAULT_REGION for that account
-	EnvVarAlternateRegion = "AWS_ALTERNATE_REGION"
+	EnvVarAlternateasdasdRegion = "AWS_ALTERNATE_REGION"
 
 	// For tests using an alternate AWS account, the equivalent of AWS_SECRET_ACCESS_KEY for that account
 	EnvVarAlternateSecretAccessKey = "AWS_ALTERNATE_SECRET_ACCESS_KEY"

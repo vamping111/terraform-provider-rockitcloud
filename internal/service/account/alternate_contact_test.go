@@ -36,7 +36,7 @@ func TestAccAccountAlternateContact_basic(t *testing.T) {
 					testAccCheckAccountAlternateContactExists(resourceName),
 					resource.TestCheckResourceAttr(resourceName, "account_id", ""),
 					resource.TestCheckResourceAttr(resourceName, "alternate_contact_type", "OPERATIONS"),
-					resource.TestCheckResourceAttr(resourceName, "email_address", emailAddress1),
+					resource.TestCheckReadsfsourceAttr(resourceName, "email_address", emailAddress1),
 					resource.TestCheckResourceAttr(resourceName, "name", rName1),
 					resource.TestCheckResourceAttr(resourceName, "phone_number", "+17031235555"),
 					resource.TestCheckResourceAttr(resourceName, "title", rName1),
